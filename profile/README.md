@@ -18,20 +18,22 @@ We aim to:
   *Fully independent and student-run, with all established Georgia Tech policies respected.*
 
 ## What Is Free (Libre) Software?  
-Free software - that’s **libre**, not merely “free of cost” - is defined by the respect it affords to users: the freedom to **Run**, **Study**, **Modify**, and **Share**. These are known as the "Four Essential Freedoms" articulated by the Free Software Foundation.
+Free software is not always “free of cost” - instead, is defined by the respect it affords to users: the freedom to **Run**, **Study**, **Modify**, and **Share**. These are known as the "Four Essential Freedoms" articulated by the Free Software Foundation.
 
 ### Our Licensing Policy  
-- **Allowed and preferred:** Copyleft licenses (GPLv3, LGPLv3, MPL 2.0, etc.)  
-- **Allowed:** Permissive licenses (BSD, MIT, Apache 2.0)—but not ideal for our mission  
-- **Forbidden:** Source-available-only licenses (BSL, SSPL, etc.)  
-Chosen projects must remain public—viewable, modifiable, and redistributable.
+- ✅ **Allowed (and preferred):** GPL-Compatible Copyleft licenses (GPLv3, LGPLv3, MPL 2.0, etc.)  
+- ✅ **Allowed:** GPL-Compatible Permissive licenses (BSD, MIT, Apache 2.0).
+- ❌ **Forbidden:** Source-available-only licenses (BSL, SSPL, etc.)  
+
+> Our only rule is that whatever license you pick - the projects' source-code must remain publicly—viewable, modifiable, and redistributable.
 
 ## Why It Matters  
 We’re more than a tech club—we’re a movement grounded in freedom, ethical collaboration, and shared knowledge. Whether you're building, contributing, or learning with us, you’re helping shape a space where technology empowers instead of controls.
 
 ---
 
-**Location & Contact**  
+**Location & Contact**
+https://sites.gatech.edu/gtltc
 Georgia Institute of Technology  
 North Avenue, Atlanta, GA 30332  
 (LTC is fully independent and student-run; all correspondence should be directed to club leadership.)
