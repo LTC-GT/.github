@@ -33,7 +33,7 @@ We’re more than a tech club—we’re a movement grounded in freedom, ethical 
 ---
 
 **Location & Contact**
-https://sites.gatech.edu/gtltc
+https://ltc.gtorg.gatech.edu/
 Georgia Institute of Technology  
 North Avenue, Atlanta, GA 30332  
 (LTC is fully independent and student-run; all correspondence should be directed to club leadership.)
