@@ -2,6 +2,10 @@
 
 **Georgia Tech’s only student run club for Free, Libre, & Open-Source: software, hardware, and knowledge**
 
+---
+### We've largely moved to Codeberg - and you should too! Find us now at https://codeberg.org/LTC-GT
+---
+
 ## Who We Are  
 At LibreTech Collective, we believe technology should be open, transparent, and accessible to all. Whether you're a coder, designer, tinkerer, hacker - or simply curious about free technology - you belong here with us!  
 
